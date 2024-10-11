@@ -1,0 +1,44 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "777843",
+      "name": "赞",
+      "font_class": "icon",
+      "unicode": "e651",
+      "unicode_decimal": 58961
+    },
+    {
+      "icon_id": "1727383",
+      "name": "35新闻、资讯-线性",
+      "font_class": "xinwenzixun-xianxing",
+      "unicode": "e8a7",
+      "unicode_decimal": 59559
+    },
+    {
+      "icon_id": "6844384",
+      "name": "版本信息",
+      "font_class": "banbenxinxi",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "10793054",
+      "name": "github",
+      "font_class": "github",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "10918080",
+      "name": "bilibili-line",
+      "font_class": "bilibili-line",
+      "unicode": "e75d",
+      "unicode_decimal": 59229
+    }
+  ]
+}
